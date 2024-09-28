@@ -1,2 +1,2 @@
 <img src='img/header.gif'>
-<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=𝙷𝚒+𝚒'𝚖+𝚊+𝙹𝚞𝚗𝚒𝚘𝚛+𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔+𝚆𝚎𝚋+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+👩🏻‍💻">
+<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines= 𝙸'𝚖+𝚊+𝙹𝚞𝚗𝚒𝚘𝚛+𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔+𝚆𝚎𝚋+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+👩🏻‍💻">
