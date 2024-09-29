@@ -1,11 +1,21 @@
 <div align="center">
 <img src='img/header.gif'>
+  
 <div>
 
+<div align="left">
+  
+ ```
+const meWho = {
+name: "Zahra",
+age: 31,
+nationality1: "Moroccan",
+nationality2: "Italian",
+citizenship: "Belgian" }; 
+ ``` 
+<div>
 
-# 𝙷𝚒 𝙼𝚢 𝚗𝚊𝚖𝚎 𝙸𝚜 𝚉𝚊𝚑𝚛𝚊!
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=A+Junior+Full+Stack+Developer+👩🏻‍💻;">
+<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=I+an+a+Junior+Full+Stack+Web+Dev+👩🏻‍💻;">
 
 <div align="left">
 
@@ -110,7 +120,32 @@
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 
 
-# 𝚂𝚙𝚎𝚊𝚔𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 💬
+# 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 🗂️
+
+<div align="center">
+
+| Project |  Link | 
+|:------------ |:--------------:| 
+|ᴍʏ ᴘᴏʀᴛꜰᴏʟɪᴏ       |    [🪪 ](https://github.com/Zahra-Nfls/Portfolio)      |    
+|ᴛʜᴇ ᴍᴏᴠɪᴇ ʙʀᴏᴡꜱᴇʀ      |   [ 📽️](https://github.com/Zahra-Nfls/The-Movie-Browser)     |    
+| ᴛʜᴇ ᴡᴇᴀᴛʜᴇʀ ᴀᴘᴘ     |    [🌤️  ](https://github.com/Zahra-Nfls/The-Weather-App)      |    
+|ʀᴇᴀᴄᴛ ᴛᴏ ᴅᴏ ʟɪꜱᴛ      |   [ 📅  ](https://github.com/Zahra-Nfls/To-Do-List-React)    |    
+| ᴠ ᴄᴀʀᴅ       |    [ 📇 ](https://github.com/Zahra-Nfls/V-Card)      |         
+
+<div>
+
+
+
+
+<div align="left">
+
+
+<img align="right"  src="img/origami.png">  
+
+# 𝚂𝚙𝚎𝚊𝚔𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+
+ <img align="left"  src="img/origami.png">
+
 
 <img align="right" width="50%" src="img/languages.png">
 
@@ -132,3 +167,18 @@
 ```
 
 <div>
+
+<div align="center">
+   <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zahra-Nfls&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
+   
+   <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Nfls&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000"/>
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-Nfls&theme=react&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook" height="200px" />
+</div>
+
+
+
+
