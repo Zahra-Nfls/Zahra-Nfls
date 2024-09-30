@@ -196,16 +196,22 @@ citizenship: "Belgian" };
    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zahra-Nfls&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
    
    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra-Nfls&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000"/>
+   
 <div>
 <br>
 <br>
+  
 <div align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-Nfls&theme=react&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook" height="200px" />
+  
 </div>
 
 <br>
 <br>
 
+<div align="left">
+  
 # 𝙼𝚘𝚝𝚝𝚘 📢
 <div align="center">
  <img src="img/motto.jpg" width="30%">
