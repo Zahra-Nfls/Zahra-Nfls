@@ -15,7 +15,8 @@ name: "Zahra",
 age: 31,
 nationality1: "Moroccan",
 nationality2: "Italian",
-citizenship: "Belgian" }; 
+citizenship: "Belgian"
+ }; 
  ```
 <br>
 <br>
