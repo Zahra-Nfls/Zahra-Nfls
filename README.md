@@ -2,8 +2,12 @@
 <img src='img/header.gif'>
   
 <div>
-
+<br>
+<br>
+  
 <div align="left">
+
+ <img align="left"  width="15%"  src="img/wave.png">
   
  ```
 const meWho = {
@@ -12,14 +16,20 @@ age: 31,
 nationality1: "Moroccan",
 nationality2: "Italian",
 citizenship: "Belgian" }; 
- ``` 
-<div>
+ ```
+<br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=I+an+a+Junior+Full+Stack+Web+Dev+👩🏻‍💻;">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=I+am+a+Junior+Full+Stack+Web+Dev+🖥️">
+
+<br>
 
 <div align="left">
 
   #  𝚂𝚔𝚒𝚕𝚕𝚜  💻
+  <br>
+  
 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍: 
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
@@ -119,8 +129,12 @@ citizenship: "Belgian" };
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 
+<br>
+<br>
+<br>
 
 # 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 🗂️
+<br>
 
 <div align="center">
 
@@ -134,20 +148,20 @@ citizenship: "Belgian" };
 
 <div>
 
-
+<br>
+<br>
 
 
 <div align="left">
 
 
-<img align="right"  src="img/origami.png">  
-
-# 𝚂𝚙𝚎𝚊𝚔𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-
- <img align="left"  src="img/origami.png">
+# 𝚂𝚙𝚎𝚊𝚔𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 💬
+<br>
+<br>
 
 
-<img align="right" width="50%" src="img/languages.png">
+<img align="right" width="35%" src="img/languages.png">
+
 
 
 1. 𝙰𝚛𝚊𝚋𝚒𝚌 - 𝙼𝚘𝚝𝚑𝚎𝚛 𝚃𝚘𝚗𝚐𝚞𝚎;
@@ -167,6 +181,11 @@ citizenship: "Belgian" };
 ```
 
 <div>
+<br>
+<br>
+
+
+#  𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝚃𝚎𝚌𝚑 🚀
 
 <div align="center">
    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zahra-Nfls&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
@@ -179,6 +198,16 @@ citizenship: "Belgian" };
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zahra-Nfls&theme=react&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook" height="200px" />
 </div>
 
+<br>
+<br>
 
+# 𝙼𝚘𝚝𝚝𝚘 📢
+<div align="center">
+ <img src="img/motto.jpg" width="30%">
 
+<br>
+<br>
+<br>
+<div align="left">
 
+<img align="right" width="20%" src="img/logo-removebg-preview.png">
