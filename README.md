@@ -21,7 +21,7 @@ citizenship: "Belgian" };
 <br>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=I+am+a+Junior+Full+Stack+Web+Dev+🖥️">
+<img src="https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&weight=700&size=40&pause=1500&&vCenter=true&width=1000&lines=I+am+a+Junior+Full+Stack+Web+Dev+!">
 
 <br>
 
