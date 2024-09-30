@@ -31,8 +31,7 @@ citizenship: "Belgian"
   #  𝚂𝚔𝚒𝚕𝚕𝚜  💻
   <br>
   
-𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍: 
-
+### 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍: 
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 
@@ -48,7 +47,6 @@ citizenship: "Belgian"
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 
-
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
@@ -59,7 +57,7 @@ citizenship: "Belgian"
 
 
 
-𝙱𝚊𝚌𝚔-𝙴𝚗𝚍:
+### 𝙱𝚊𝚌𝚔-𝙴𝚗𝚍:
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 
@@ -68,8 +66,7 @@ citizenship: "Belgian"
 <br>
 <br>
 
-
-𝙶𝚎𝚗𝚎𝚛𝚊𝚕 𝚃𝚘𝚘𝚕𝚜: 
+### 𝙶𝚎𝚗𝚎𝚛𝚊𝚕 𝚃𝚘𝚘𝚕𝚜: 
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 
@@ -80,7 +77,6 @@ citizenship: "Belgian"
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/>
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 
@@ -94,9 +90,7 @@ citizenship: "Belgian"
 
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/>
 
-
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-
 
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 
@@ -105,8 +99,7 @@ citizenship: "Belgian"
 <br>
 <br>
 
-
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 
+### 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
 
@@ -119,13 +112,12 @@ citizenship: "Belgian"
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
+
 <br>
 <br>
 
+### 𝙽𝚎𝚡𝚝:
 
-𝙽𝚎𝚡𝚝:
-
-  
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" alt="Svelte" title="Svelte"/>
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
