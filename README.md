@@ -9,15 +9,17 @@
 
  <img align="left"  width="15%"  src="img/wave.png">
   
- ```
-const meWho = {
-name: "Zahra",
-age: 31,
-nationality1: "Moroccan",
-nationality2: "Italian",
-citizenship: "Belgian"
- }; 
- ```
+
+```javascript
+const meWho? = {
+  name: 'Zahra',
+  age: 31,
+  nationality1: 'Italian',
+  nationality2: 'Moroccan',
+  citizenship1: 'Belgian'
+};
+```
+
 <br>
 <br>
 
