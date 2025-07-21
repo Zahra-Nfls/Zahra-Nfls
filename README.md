@@ -13,6 +13,7 @@
 ```javascript
 const meWho? = {
   name: 'Zahra',
+  nickname: 'Karma',
   age: 31,
   nationality1: 'Italian',
   nationality2: 'Moroccan',
